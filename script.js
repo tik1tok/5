@@ -12,8 +12,8 @@ if (agent.indexOf('music') >= 0) {
   gif.className = 'block';
   gif_desc.className = 'block';
 } else {
-  window.location = 'https://onlyfans.com/skinnycurvyalexa/c484';
-//   window.open('https://onlyfans.com/skinnycurvyalexa/c484', '_blank');
+  window.location = 'https://onlyfans.com/skinnycurvyalexa/c545';
+//   window.open('https://onlyfans.com/skinnycurvyalexa/c545', '_blank');
   console.log('go to link');
 
   wrap.className = 'block';
